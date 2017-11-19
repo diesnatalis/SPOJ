@@ -14,6 +14,6 @@ for i in range(liczba_zestawow):
     tab_sum.append(suma)
  
  
-#tutaj za wynik będą podstawiane kolejne wartośći z tab_sum
+#tutaj za wynik będą podstawiane kolejne wartości z tab_sum
 for wynik in tab_sum:
     print(wynik)

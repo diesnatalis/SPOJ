@@ -1,3 +1,4 @@
+#http://pl.spoj.com/problems/RNO_DOD/
 tab_liczb = []
 tab_sum = []
 suma = 0
